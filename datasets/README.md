@@ -4,14 +4,14 @@ Throughout the years, we performed surveys across four countries in three contin
 
 We present an overview of our collected datasets, and the number of unique networks within them, per frequency band.
 
-In total, our datasets cover 250,137 networks, of which 215,836 are unique.
+In total, our datasets cover 319,097 networks, of which 261,900 are unique.
 
 Our survey was performed predominantly residential areas.
 If applicable, we split datasets per neighborhood (for example, Boston). 
 
 ## Datasets
 
-We collected various datasets between October 2019 and May 2021, containing beacon and probe response frames.
+We collected various datasets between October 2019 and October 2021, containing beacon and probe response frames.
 
 For each frequence band, we list the number of unique networks, which is based on the network's BSSID MAC address.
 
@@ -27,6 +27,8 @@ For each frequence band, we list the number of unique networks, which is based o
 | October 2020 | BE | Limburg (Hasselt) | 19,267 | 12,099 | 31,366 |
 | October 2020 | CH | Zürich | 10,775 | 11,721 | 22,496 |
 | May 2021 | BE | Limburg (Hasselt) | 17,647 | 10,259 | 27,906 |
+| October 2021 | US | Boston (Back Bay) | 11,822 | 28,938 | 40,760 |
+| October 2021 | US | Boston (Fenway) | 11,062 | 17,138 | 28,200 |
 
 <sup> Number of unique networks in our surveys, listed per their respective date, region, and frequency band.
 
@@ -39,7 +41,7 @@ In order to anonymize the datasets, we apply the following rules:
 - We remove RadioTap and PPI headers, except for its channel information.
 - We anonymize the three least significant bytes of each MAC address, keeping the Organizationally Unique Identifier (OUI).
 - We anonymize the destination MAC address of probe response frames, as it identifies client stations.
-- We map each unique SSID to a pseudonym “SSID-_N_” where _N_ is an incremental number.
+- We map each unique SSID to a pseudonym "SSID-_N_" where _N_ is an incremental number.
 
 Following these rules, we limit the potential leakage of sensitive sensor data in beacon frames, keep vendor-related information while preserving user privacy, and allow one to measure how many access points broadcast a specific anonymized SSID.
 

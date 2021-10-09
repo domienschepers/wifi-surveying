@@ -93,7 +93,7 @@ class Anonimize:
 		return packet
 		
 	def __sanitize_ssid( self , packet ):
-		"""	Map every SSID to a pseudonym “SSID-N” where N is an incremental number. 
+		"""	Map every SSID to a pseudonym "SSID-N" where N is an incremental number. 
 			Note: we skip hidden networks, that is, networks with an empty SSID.
 		"""
 		# Find the SSID information element.

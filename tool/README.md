@@ -54,7 +54,6 @@ Standards:
        0 =   0.00 %   (2009) IEEE 802.11w
       43 =  21.50 %   (2013) IEEE 802.11ac Wave 1
        0 =   0.00 %   (2016) IEEE 802.11ac Wave 2
-       0 =   0.00 %   (2016) IEEE 802.11mc
        0 =   0.00 %   (2019) IEEE 802.11ax
 
 Frequency:

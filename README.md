@@ -57,7 +57,7 @@ Statistics cover a variety of features such as Wi-Fi WPS, and detailed encryptio
 
 <sup>See [the detailed page on our datasets.](datasets)
 
-We present our datasets covering more than 215,000 unique networks across four countries in three continents.
+We present our datasets covering more than 261,900 unique networks across four countries in three continents.
 
 Additionally, we provide a tool to anonimize datasets.
 
