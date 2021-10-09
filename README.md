@@ -39,27 +39,27 @@ As a result, it may lead to the collection of more 2.4 GHz networks, and therefo
 
 ## Wi-Fi Measurement Tool
 
-<sup>See [the detailed page on our measurement tool.](tool)
-
 We provide a tool to extract statistics from network captures containing beacon and probe response frames.
 
 Additionally, we provide a tool to extract statistics from the [Radiocells](https://radiocells.org/) project.
 
-## Wi-Fi Security Statistics
+For more information, see [the detailed page on our measurement tool](tool).
 
-<sup>See [the detailed page on our security statistics.](statistics)
+## Wi-Fi Security Statistics
 
 We present security statistics on a fine-grained level, per year, region, and frequency band.
 
 Statistics cover a variety of features such as Wi-Fi WPS, and detailed encryption and authentication mechanisms.
 
-## Wi-Fi Datasets
+For more information, see [the detailed page on our security statistics](statistics).
 
-<sup>See [the detailed page on our datasets.](datasets)
+## Wi-Fi Datasets
 
 We present our datasets covering more than 261,900 unique networks across four countries in three continents.
 
 Additionally, we provide a tool to anonimize datasets.
+
+For more information, see [the detailed page on our datasets](datasets).
 
 ## Publication
 
