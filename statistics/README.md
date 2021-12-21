@@ -1,10 +1,10 @@
-# Wi-Fi Security Statistics
+# Wi-Fi Statistics
 
 Throughout the years, we performed numerous surveys, and here we present all their security-related statistics.
 
 Our statistics give a more detailed insight in today's Wi-Fi networks, and allows one to observe trends over time.
 
-## Datasets
+#### Datasets
 
 We present security-related statistics on all our datasets, which cover more than 271,700 unique networks.
 
@@ -153,7 +153,7 @@ For Wi-Fi 5 (IEEE 802.11ac), we present statistics for both Wave 1 and Wave 2 (l
 | | | | 5 GHz | 99.44 % | 93.43 % | 1.10 % | 22.71 % |
 | October 2021 | US | Boston (Fenway) | 2.4 GHz | 97.37 % | 9.05 % | 0.00 % | 19.09 % |
 | | | | 5 GHz | 97.53 % | 91.41 % | 0.50 % | 33.59 % |
-| December 2021 | BE | Limburg (Hasselt) | 2.4 GHz | 98.53 % | 5.54 % | 0.00 % | 0.70 % |
+| Decem. 2021 | BE | Limburg (Hasselt) | 2.4 GHz | 98.53 % | 5.54 % | 0.00 % | 0.70 % |
 | | | | 5 GHz | 99.73 % | 82.95 % | 0.19 % | 1.10 % |
 
 <sup> Usage of the latest Wi-Fi standards and amendments, listed per region and frequency band.

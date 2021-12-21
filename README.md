@@ -7,6 +7,7 @@ As such, results can be interpreted, and compared to each other, in a more rigor
 Furthermore,
 - we provide a [tool to extract security statistics](tool), and present a detailed [overview of all statistics](statistics).
 - we provide a [tool to anonimize datasets](datasets), and share anonimized [datasets](datasets) with other researchers upon request.
+- we provide a [tool to wardrive on macOS](https://github.com/domienschepers/wifi-wardriving-macos) operating systems.
 
 ## Recommended Best Practices
 
@@ -37,21 +38,19 @@ Therefore, one must be aware that certain frequency bands or channels may be ove
 The challenge of surveying multiple frequency bands is further exacerbated since 5 GHz networks are harder to detect as the range in this frequency band is lower than in the 2.4 GHz band, and there are more 5 GHz channels to perform channel-hopping on.
 As a result, it may lead to the collection of more 2.4 GHz networks, and therefore the impact of 5 GHz networks on the combined statistics is significantly reduced, further illustrating the importance of reporting statistics for each frequency band separately.
 
-## Wi-Fi Measurement Tool
-
-We provide a tool to extract statistics from network captures containing beacon and probe response frames.
-
-Additionally, we provide a tool to extract statistics from the [Radiocells](https://radiocells.org/) project.
-
-For more information, see [the detailed page on our measurement tool](tool).
-
-## Wi-Fi Security Statistics
+## Wi-Fi Statistics
 
 We present security statistics on a fine-grained level, per year, region, and frequency band.
 
 Statistics cover a variety of features such as Wi-Fi WPS, and detailed encryption and authentication mechanisms.
 
 For more information, see [the detailed page on our security statistics](statistics).
+
+#### Tool
+
+We provide a tool to extract statistics from network captures containing beacon and probe response frames.
+
+For more information, see [the detailed page on our statistics tool](tool).
 
 ## Wi-Fi Datasets
 
