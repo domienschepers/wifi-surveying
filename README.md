@@ -54,7 +54,7 @@ For more information, see [the detailed page on our security statistics tool](to
 
 ## Wi-Fi Datasets
 
-We present our datasets covering more than 271,700 unique networks across four countries in three continents.
+We present our datasets covering more than 280,600 unique networks across four countries in three continents.
 
 Additionally, we provide a tool to anonimize datasets.
 

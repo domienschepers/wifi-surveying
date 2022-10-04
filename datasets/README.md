@@ -4,14 +4,14 @@ Throughout the years, we performed surveys across four countries in three contin
 
 We present an overview of our collected datasets, and the number of unique networks within them, per frequency band.
 
-In total, our datasets cover 346,225 networks, of which 271,780 are unique.
+In total, our datasets cover 373,516 networks, of which 280,675 are unique.
 
 Our survey was performed predominantly residential areas.
 If applicable, we split datasets per neighborhood (for example, Boston). 
 
 ## Datasets
 
-We collected various datasets between October 2019 and December 2021, containing beacon and probe response frames.
+We collected various datasets between October 2019 and October 2022, containing beacon and probe response frames.
 
 For each frequence band, we list the number of unique networks, which is based on the network's BSSID MAC address.
 
@@ -30,6 +30,7 @@ For each frequence band, we list the number of unique networks, which is based o
 | October 2021 | US | Boston (Back Bay) | 11,822 | 28,938 | 40,760 |
 | October 2021 | US | Boston (Fenway) | 11,062 | 17,138 | 28,200 |
 | December 2021 | BE | Limburg (Hasselt) | 16,796 | 10,332 | 27,128 |
+| October 2022 | BE | Limburg (Hasselt) | 16,979 | 10,312 | 27,291 |
 
 <sup> Number of unique networks in our surveys, listed per their respective date, region, and frequency band.
 
