@@ -11,7 +11,7 @@ Furthermore,
 
 ## Recommended Best Practices
 
-We recommend the folowing best practices when surveying Wi-Fi networks.
+We recommend the following best practices when surveying Wi-Fi networks.
 
 * **Best Practice 1: Address the Methodology.**
 In order to understand and interpret survey results, one must discuss the methodology and provide context for the performed survey.
@@ -50,7 +50,7 @@ For more information, see [the detailed page on our security statistics](statist
 
 We provide a tool to extract statistics from network captures containing beacon and probe response frames.
 
-For more information, see [the detailed page on our statistics tool](tool).
+For more information, see [the detailed page on our security statistics tool](tool).
 
 ## Wi-Fi Datasets
 
