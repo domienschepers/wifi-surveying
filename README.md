@@ -64,4 +64,4 @@ For more information, see [the detailed page on our datasets](datasets).
 
 This work was published at ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec '21):
 
-- [Let Numbers Tell the Tale: Measuring Security Trends in Wi-Fi Networks and Best Practices](https://dl.acm.org/doi/10.1145/3448300.3468286)
+- Let Numbers Tell the Tale: Measuring Security Trends in Wi-Fi Networks and Best Practices ([pdf](https://papers.mathyvanhoef.com/wisec2021.pdf), [acm](https://dl.acm.org/doi/10.1145/3448300.3468286))
