@@ -1,5 +1,5 @@
 #!/bin/bash
-# Copyright (C) 2021 Domien Schepers.
+# Copyright (C) 2021-2023 Domien Schepers.
 
 ##########################################################################################
 ### Tool for Drawing Security Statistics of Wi-Fi Networks ###############################
@@ -24,7 +24,7 @@ run_tshark_filter () {
 	
 	# Append a potential global filter to the command.
 	if [ "$FILTER" ]; then
-		Y="$2&&($FILTER_GLOBAL)"
+		Y="($2)&&($FILTER_GLOBAL)"
 	fi
 	
 	# Execute the filter and print the results.
