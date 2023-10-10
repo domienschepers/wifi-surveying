@@ -6,7 +6,7 @@ Our statistics give a more detailed insight in today's Wi-Fi networks, and allow
 
 #### Datasets
 
-We present security-related statistics on all our datasets, which cover more than 280,600 unique networks.
+We present security-related statistics on all our datasets, which cover more than 327,100 unique networks.
 
 For more information, see [the detailed page on our datasets](../datasets).
 
@@ -44,6 +44,10 @@ We present an overview of general network configuration and security features, c
 | | | | 5 GHz | 95.33 % | 8.25 % | 0.28 % | 3.20 % | 39.31 % |
 | October 2022 | BE | Limburg (Hasselt) | 2.4 GHz | 95.56 % | 6.63 % | 0.03 % | 3.29 % | 42.27 % |
 | | | | 5 GHz | 95.75 % | 10.06 % | 0.29 % | 13.86 % | 39.48 % |
+| October 2023 | US | Boston (Back Bay) | 2.4 GHz | 96.49 % | 48.73 % | 0.55 % | 5.83 % | 23.59 % | 
+| | | | 5 GHz | 84.19 % | 41.82 % | 3.44 % | 4.47 % | 15.48 % | 
+| October 2023 | US | Boston (Fenway) | 2.4 GHz | 95.87 % | 46.13 % | 0.11 % | 14.94 % | 26.32 % | 
+| | | | 5 GHz | 83.74 % | 35.06 % | 0.71 % | 11.61 % | 17.46 % | 
 
 <sup> Usage of various network configuration and security features, listed per region and frequency band.
 <br> NOTE: Protected Management Frames (PMF) is measured over encrypted networks only.
@@ -84,6 +88,10 @@ Note that networks can support multiple pairwise encryption ciphers simultaneous
 | | | | 5 GHz | 6.36 % | 99.69 % | 6.37 % | 93.42 %|
 | October 2022 | BE | Limburg (Hasselt) | 2.4 GHz | 5.75 % | 99.46 % | 5.74 % | 94.08 % |
 | | | | 5 GHz | 5.97 % | 99.50 % | 5.96 % | 93.61 % |
+| October 2023 | US | Boston (Back Bay) | 2.4 GHz | 11.37 % | 99.85 % | 11.37 % | 88.52 % | 
+| | | | 5 GHz | 9.61 % | 99.37 % | 9.61 % | 89.76 % | 
+| October 2023 | US | Boston (Fenway) | 2.4 GHz | 10.28 % | 99.63 % | 10.28 % | 89.51 % | 
+| | | | 5 GHz | 8.74 % | 99.14 % | 8.74 % | 90.46 % |
 
 <sup> Usage of encryption protocols within encrypted networks, listed per region and frequency band.
  
@@ -123,6 +131,10 @@ Note that networks can support multiple authentication and key management mechan
 | | | | 5 GHz | 73.72 % | 25.63 % | 0.50 % |
 | October 2022 | BE | Limburg (Hasselt) | 2.4 GHz | 75.27 % | 24.48 % | 0.23 % |
 | | | | 5 GHz | 76.12 % | 23.08 % | 0.56 % |
+| October 2023 | US | Boston (Back Bay) | 2.4 GHz | 83.40 % | 15.92 % | 3.04 % |
+| | | | 5 GHz | 64.75 % | 30.54 % | 6.42 % |
+| October 2023 | US | Boston (Fenway) | 2.4 GHz | 80.25 % | 19.43 % | 5.16 % |
+| | | | 5 GHz | 62.30 % | 36.02 % | 5.20 % |
 
 <sup> Usage of authentication and key management mechanisms within encrypted networks, listed per region and frequency band.
 <br> Authentication mechanisms include their respective Fast Transition (FT) counterparts.
@@ -163,5 +175,9 @@ For Wi-Fi 5 (IEEE 802.11ac), we present statistics for both Wave 1 and Wave 2 (l
 | | | | 5 GHz | 99.73 % | 82.95 % | 0.19 % | 1.10 % |
 | October 2022 | BE | Limburg (Hasselt) | 2.4 GHz | 98.57 % | 8.09 % | 0.00 % | 2.32 % |
 | | | | 5 GHz | 99.71 % | 83.47 % | 2.08 % | 4.70 % |
+| October 2023 | US | Boston (Back Bay) | 2.4 GHz | 99.13 % | 15.74 % | 0.00 % | 27.02 % |
+| | | | 5 GHz | 99.63 % | 75.67 % | 21.02 % | 36.17 % |
+| October 2023 | US | Boston (Fenway) | 2.4 GHz | 98.89 % | 10.97 % | 0.00 % | 37.13 % |
+| | | | 5 GHz | 99.17 % | 70.11 % | 26.30 % | 47.95 % |
 
 <sup> Usage of the latest Wi-Fi standards and amendments, listed per region and frequency band.
